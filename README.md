@@ -1,2 +1,1 @@
 ## ichiban1
-#RRGGBB
